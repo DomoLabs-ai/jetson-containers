@@ -1,3 +1,7 @@
+> **⚠️ ARCHIVED:** This repository has been archived. Active development has moved to a private internal repository.
+
+---
+
 [![a header for a software project about building containers for AI and machine learning](https://raw.githubusercontent.com/dusty-nv/jetson-containers/docs/docs/images/header_blueprint_rainbow.jpg)](https://www.jetson-ai-lab.com)
 
 # CUDA Containers for Edge AI & Robotics
